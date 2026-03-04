@@ -24,8 +24,8 @@ module.exports = {
      {
       name: "GlaceYT2",
       password: "showrob",
-      host: "45.13.236.245",
-      port: 25582,
+      host: "212.227.65.132",
+      port: 15381,
       secure: false
     }
   ]
